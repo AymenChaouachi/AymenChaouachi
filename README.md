@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/GitHub_Banner
-  .png" width="100%">
+  <img src="images/GitHub-Banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aymen Chaouachi</h1>
